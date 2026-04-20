@@ -35,10 +35,9 @@ pip install scapy
    | 1 | All IP traffic |
    | 2 | TCP only |
    | 3 | UDP only |
-   | 4 | ICMP only (pings) |
-   | 5 | HTTP (port 80) |
-   | 6 | HTTPS (port 443) |
-   | 7 | DNS (port 53) |
+   | 4 | HTTP (port 80) |
+   | 5 | HTTPS (port 443) |
+   | 6 | DNS (port 53) |
 6. **Watch packets appear in the console**
    Each captured packet displays its timestamp, MAC addresses, IP addresses, TTL, protocol, and port numbers.
 7. **Stop the capture**
