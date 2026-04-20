@@ -47,9 +47,9 @@ pip install scapy
 ## What It Displays
  
 ```
-[14:32:01] aa:bb:cc:dd:ee:ff → 11:22:33:44:55:66
-  IP  192.168.1.5 → 8.8.8.8  TTL=64
-  TCP 52341 → 443  Flags=S
+[23:16:50] f0:2f:74:14:cb:38 → 34:db:9c:86:a4:90
+  IP  192.168.2.32 → 142.250.139.94  TTL=128
+  UDP 58620 → 443
 ```
  
 | Field | Description |
