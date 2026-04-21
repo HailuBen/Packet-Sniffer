@@ -58,7 +58,7 @@ pip install scapy
 | MAC addresses | Source and destination at the Ethernet (Layer 2) level |
 | IP addresses | Source and destination at the network (Layer 3) level |
 | TTL | Time To Live — how many hops remain before the packet is dropped |
-| Protocol | TCP, UDP, or ICMP |
+| Protocol | TCP, UDP |
 | Ports | Which applications are communicating |
 | TCP Flags | Connection state (SYN, ACK, FIN, etc.) |
 
